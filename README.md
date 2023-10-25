@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Fullstack Todo List App
 
-## Getting Started
+## Introduction
 
-First, run the development server:
+This application allows you to create, update, and delete tasks in a convenient and organized way. Whether you're managing your daily tasks, planning projects, or simply making a grocery list, this app has got you covered.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Create:** Add new tasks to your todo list.
+- **Update:** Modify existing tasks to reflect changes.
+- **Delete:** Remove tasks that you've completed or no longer need.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Prerequisites
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Before you begin, ensure you have the following installed on your machine:
 
-## Learn More
+- [Node.js](https://nodejs.org/)
+- [MongoDB](https://www.mongodb.com/)
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Technologies Used
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- **Next.js:** A React framework for server-rendered React applications.
+- **MongoDB:** A NoSQL database for storing task data.
+- **Mongoose:** An elegant MongoDB object modeling tool for Node.js.
+- **Tailwind CSS:** A utility-first CSS framework for designing responsive and efficient layouts.
+- **React Icons:** A collection of popular icons for React applications.
+- **ESLint:** A pluggable and configurable linter tool for identifying and fixing problems in JavaScript code.
